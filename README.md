@@ -1,7 +1,12 @@
-# BootCampsJava
+<h1 align="center">Java BootCamps</h1>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"></p>
 
-# <img src="https://hermes.digitalinnovation.one/tracks/a814466a-ab18-4618-8c81-ce877b95e4f7.png" width="100" height="100"> Cognizant Java Developer DIO  
-Projetos e anotações do Bootcamp Cognizant Java Developer (96h em 46 Aulas)
+<!-- Java -->
+<details>
+    <summary><strong>Cognizant Java Developer DIO  
+Projetos e anotações do Bootcamp Cognizant Java Developer (96h em 46 Aulas)</strong></summary>
+    <p align="center"><img src="https://hermes.digitalinnovation.one/tracks/a814466a-ab18-4618-8c81-ce877b95e4f7.png" width="100" height="100"/> </p>
+
 -----------
 
 - [x] Lógica de Programação Essencial
@@ -16,3 +21,5 @@ Projetos e anotações do Bootcamp Cognizant Java Developer (96h em 46 Aulas)
 - [ ] Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
 - [ ] Criando API Gateways no ambiente Azure Spring Cloud
 - [ ] Microsserviços em Spring Cloud com Java
+</details>
+
